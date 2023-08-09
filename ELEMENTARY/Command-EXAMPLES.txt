@@ -4,5 +4,8 @@ sudo systemctl start apache2.service
 
 cd /var/www/html/
 
-vi faststart.html
+sudo vi faststart.html
+
+ESC : w ENTER
+ESC : q ENTER
 
