@@ -1,0 +1,31 @@
+WELCOME TO YOUR FAST START IN THE 'VIM' TEXT EDITOR
+THANKS TO DMZCON-2023, international cyber security conference (www.dmzcon.com)
+
+Let's start ? Ready? Go!
+
+1) To open the text editor type the following:
+vi
+
+2) When you are inside the editor, take a look at the bottom-left of the screen, then press:
+ESCAPE  :   q  ENTER
+
+3) And we got back to the command line
+
+4) To open or to create some file in the text editor type the following (for example):
+vi myfilename.cpp
+
+5) To save the file, again take a look at the bottom-left of the screen, then press:
+ESCAPE  :   w  ENTER
+
+6) To quit from the editor repeat the STEP-2 of this manual
+
+7) To start typing some text in the editor press 'i' or 'a' button
+
+8) To delete some symbol press 'd' button and then press the 'RIGHT-ARROW-BUTTON'
+
+9) To delete some string press twice 'd'
+
+10) To create new line press 'o' or 'O'
+
+11) If something goes wrong press ESCAPE
+
